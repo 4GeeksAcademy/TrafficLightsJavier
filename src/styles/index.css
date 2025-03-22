@@ -9,3 +9,142 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.traffic-lights{
+    background-color: rgb(37, 37, 41);
+    padding: 10px;
+    justify-content: center;
+    width: 120px;
+    margin: auto
+}
+.light{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.red{
+    background-color: red;
+}
+
+.orange{
+    background-color: rgb(253, 122, 0);
+}
+.green{
+    background-color: rgb(72, 255, 0);
+}
+
+.glow{
+    box-shadow: 0px 0px 15px 7px #e5fc14
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+    margin: 0;
+}
+.semaforo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin: 0;
+    
+}
+
+.semaforo{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    background-color: black;
+    padding: 50px;
+    border-radius: 10px;
+    width: 200px;
+
+
+}
+.lightred{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+  
+}
+
+.orangeL{
+    background-color: rgb(255, 146, 3);
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+   
+}
+
+.greenL{
+    background-color: rgb(21, 255, 0);
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+   
+} */
